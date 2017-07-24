@@ -1,0 +1,38 @@
+
+
+.container h1
+{
+	color:#4f9fcf;
+	font-size:36px;
+	font-family: 'Roboto Slab', serif;
+}
+h2
+{
+	font-size:18px;	
+	font-family: 'Arimo', sans-serif;
+}
+.pictures
+{
+	height:200px;
+	width:200px;
+
+}
+.container h3
+{
+	font-size:6px
+	font-family: 'Roboto Slab', serif
+}
+@media screen and (max-width:640px){
+	body{
+	}
+}
+@media screen and (max-width:768px){
+	body{
+	}
+}
+@media screen and (max-width:980px){
+	body{
+	}
+}
+
+
